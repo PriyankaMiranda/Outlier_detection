@@ -1,0 +1,13 @@
+
+confused category = [0,1,7]
+
+import vectorizer.py - 'from vectorizer import *'
+
+use following variables:
+	'csrMatrix' - For Sparse Vectorized data
+
+	'trainingData' - For training data in text format
+	'trainingTarget' - For training data target 
+
+	'testData' - For testing data in text format
+	'testTarget' - For testing data target
